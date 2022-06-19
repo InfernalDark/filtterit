@@ -1,0 +1,710 @@
+! 6.10.2019 klo 12.23.10 https://www.iltalehti.fi/
+www.iltalehti.fi###almad-parade-1
+
+! 6.10.2019 klo 12.24.06 https://www.iltalehti.fi/khl/a/acd4f638-a0e0-471d-9e8e-4290ed163b09
+www.iltalehti.fi##.parade-ad-container
+
+! 3.6.2020 https://www.mmo-champion.com
+www.mmo-champion.com##.ac-floated-player.ac-player-wrapper
+
+! 2020-09-12 https://keskustelu.jatkoaika.com
+keskustelu.jatkoaika.com##.vbox-wrap
+keskustelu.jatkoaika.com##.vnosto-sb > .block > .block-container
+keskustelu.jatkoaika.com##.vnosto-top > .block > .block-container
+keskustelu.jatkoaika.com##.vnosto-top
+
+! 2020-09-13 https://www.wowhead.com
+www.wowhead.com###ot-sdk-btn-floating
+www.wowhead.com##.premium-promo-row
+
+! 2020-09-13 https://www.livetulokset.com
+www.livetulokset.com###box-over-content-a
+www.livetulokset.com##.boxOverContent__banner
+
+! 2020-09-14 https://www.mmo-champion.com
+www.mmo-champion.com###cdm-zone-05
+
+! 2020-09-14 https://ptr.wowhead.com
+ptr.wowhead.com###ot-sdk-btn-floating
+
+! 2020-09-14 https://classic.wowhead.com
+classic.wowhead.com###ot-sdk-btn-floating
+classic.wowhead.com##.premium-promo-row
+
+! 2020-09-16 https://www.iltalehti.fi
+www.iltalehti.fi##.jw-reset.jw-video
+www.iltalehti.fi###almavideo-ZVJDStB7
+www.iltalehti.fi##.iltv-video-content
+www.iltalehti.fi##.iltv-video-container
+www.iltalehti.fi##.iltv-embed
+
+! 2020-09-17 https://www.is.fi
+www.is.fi###rplayer-container-2000006638842
+www.is.fi##.relative.w-full.bg-white.placeholder.jsx-1616785069
+
+! 2020-09-17 https://bbs.io-tech.fi
+||www.io-tech.fi/bnneri/$image
+
+! 2020-09-17 https://www.seiska.fi
+www.seiska.fi##.jw-reset.jw-video
+www.seiska.fi##.jw-reset.jw-media
+www.seiska.fi##.jw-reset.jw-wrapper
+www.seiska.fi###botr_Pwxetp2p_wRrEuXAq_div > .jw-reset.jw-aspect
+
+! 2020-09-18 https://www.theunitedstand.com
+www.theunitedstand.com##.blocked-image
+www.theunitedstand.com##div.article-main__content--text:nth-of-type(7) > .text-sponsor > .text-sponsor__wrapper
+www.theunitedstand.com##div.article-main__content--text:nth-of-type(6) > .text-sponsor > .text-sponsor__wrapper
+www.theunitedstand.com##.small.article-main__content--middle-sponsor
+
+! 2020-09-19 https://shadowlands.wowhead.com
+shadowlands.wowhead.com###ot-sdk-btn-floating
+shadowlands.wowhead.com##.premium-promo-row > span
+shadowlands.wowhead.com##.premium-promo-row
+
+! 2020-09-19 http://givemereddit.stream
+||www.youtube.com/live_chat?v=-IFgaIz3SXg&is&embed_domain=givemereddit.stream$subdocument
+
+! 2020-09-19 https://mazymedias.com
+||st.chatango.com/h5/gz/r0507201258/id.html$subdocument
+
+! 2020-09-19 https://myoplay.club
+||video.ibm.com/socialstream/23969433?videos=0$subdocument
+
+! 2020-09-29 https://raider.io
+raider.io##.slds-medium-nowrap.slds-wrap.slds-grid.slds-text-heading--medium.slds-text-align--center.slds-p-around--small.rio-panel--patreon
+raider.io##.rio-shadow--large.d-inline-block.slds-text-align--center
+raider.io##.slds-p-horizontal--small.slds-max-medium-size--1-of-1.slds-max-small-size--1-of-1.slds-size--4-of-12 > .slds-m-bottom--large
+raider.io###raiderio_300x600_300x250_Right
+raider.io##.slds-align--absolute-center.slds-p-around--medium.rio-hidden--small.slds-text-align--center
+raider.io###raiderio_300x600_300x250_Right_2
+
+! 2020-09-30 https://fi-fi.facebook.com
+fi-fi.facebook.com###u_0_1h
+
+! 2020-10-01 https://keskustelu.jatkoaika.com
+keskustelu.jatkoaika.com###veikkaus-keskustelu
+
+! 2020-10-02 https://fi-fi.facebook.com
+fi-fi.facebook.com###u_0_2p
+
+! 2020-10-03 https://www.wowhead.com
+www.wowhead.com###main-contents > .announcement-styling-promo.announcement-contenttop.announcement
+
+! 2020-10-04 http://liveonscore.tv
+||www.youtube.com/live_chat?v=9zU_xjn9mJE&embed_domain=liveonscore.tv$subdocument
+
+! 2020-10-04 https://myoplay.club
+||video.ibm.com/socialstream/23979564?videos=0$subdocument
+
+! 2020-10-06 http://onhockey.tv
+||onhockey.tv/chat.html$subdocument
+
+! 2020-10-07 https://www.nhl.com
+www.nhl.com###content-wrap > .template--fluid.template > .template__container > .hp-layout__column--left.hp-layout__column > div.hp-item--desktop-left.hp-item > .hp-item__container > .native-ad-slot
+
+! 2020-10-14 https://wago.io
+wago.io###content > .fixed-sticky.wago-video-ad-container.wago-ad-container.md-theme-default.md-card > div > div > .video-ad-box
+wago.io###content > .fixed-sticky.wago-video-ad-container.wago-ad-container.md-theme-default.md-card
+wago.io###searchResults > div > div.stickiedTop.wago-ad-container-728x90.wago-ad-container.md-theme-default.md-card
+wago.io###search-mdt > .fixed-bottom.stickiedTop.wago-ad-container-728x90.wago-ad-container.md-theme-default.md-card
+
+! 2020-10-14 https://www.wow-petopia.com
+www.wow-petopia.com###adBannerLeft
+www.wow-petopia.com###adBannerRight
+
+! 2020-10-19 https://www.wowhead.com
+www.wowhead.com###main > .blocks
+
+! 2020-10-19 https://classic.wowhead.com
+classic.wowhead.com###main > .blocks
+
+! 2020-11-02 https://www.xvideos.com
+www.xvideos.com##.xv-cams-header
+www.xvideos.com##.models
+www.xvideos.com##.part-right
+www.xvideos.com##.player-video.xv-cams-block > .btn
+
+! 2020-11-08 https://ptr.wowhead.com
+ptr.wowhead.com###main > .blocks
+
+! 2020-11-12 https://keskustelu.jatkoaika.com
+keskustelu.jatkoaika.com##p > .CoverPop-close-go
+
+! 2020-11-14 https://shadowlands.wowhead.com
+shadowlands.wowhead.com###main > .blocks
+
+! 2020-11-17 https://paakallo.fi
+||paakallo.fi/veikkaus/$subdocument
+||paakallo.fi/veikkaus/$subdocument
+paakallo.fi##.veikkauswidget2020
+
+! 2020-11-19 https://shadowlands.wowhead.com
+shadowlands.wowhead.com##.is-btf.block-block-bg
+
+! 2020-11-21 https://myoplay.club
+||video.ibm.com/socialstream/24014229?videos=0$subdocument
+myoplay.club##.elementor-element-1e32bb91.elementor-element.elementor-top-column.elementor-col-50.elementor-column.has_eae_slider > .elementor-element-populated.elementor-column-wrap
+myoplay.club##.elementor-element-1096bb6.elementor-element.elementor-top-column.elementor-col-100.elementor-column.has_eae_slider > .elementor-element-populated.elementor-column-wrap
+||video.ibm.com/socialstream/24014229?videos=0$subdocument
+
+! 2020-11-21 http://givemeredditstreams.com
+||studio.youtube.com/live_chat?is_popout=1&v=FfA5xzt54iA&is&embed_domain=givemeredditstreams.com&dark_theme=1$subdocument
+
+! 2020-11-24 https://www.herodamage.com
+www.herodamage.com##.blockers-text
+
+! 2020-11-29 https://myoplay.club
+||video.ibm.com/socialstream/24018802?videos=0$subdocument
+
+! 2020-12-02 https://www.imdb.com
+www.imdb.com##.banner-container
+
+! 2020-12-08 https://raider.io
+raider.io##.slds-align--absolute-center.slds-grid--vertical-align-center.slds-grid.slds-text-align--center.slds-p-around--medium.undefined
+
+! 2020-12-10 https://www.icy-veins.com
+www.icy-veins.com###icy_veins_plea > [href="https://www.icy-veins.com/forums/premium"]
+www.icy-veins.com###icy_veins_plea
+
+! 2020-12-15 https://raider.io
+raider.io##.rio-fuzzy-border--large.rio-fuzzy-border
+
+! 2020-12-20 https://myoplay.club
+||video.ibm.com/socialstream/24035017?videos=0$subdocument
+myoplay.club##.elementor-section-height-default.elementor-section-boxed.eae-particle-yes.elementor-element-112e4a42.elementor-element.elementor-top-section.elementor-section.has_eae_slider
+myoplay.club##.elementor-widget-image.elementor-widget.elementor-element-f1b0116.elementor-element > .elementor-widget-container > .elementor-image
+myoplay.club##.elementor-element-6ea6fca4.elementor-element.elementor-top-column.elementor-col-50.elementor-column.has_eae_slider > .elementor-element-populated.elementor-column-wrap
+||video.ibm.com/socialstream/24035017?videos=0$subdocument
+myoplay.club##.elementor-element-1ab9652b.elementor-element.elementor-top-column.elementor-col-33.elementor-column.has_eae_slider > .elementor-element-populated.elementor-column-wrap > .elementor-widget-wrap
+
+! 2020-12-29 https://myoplay.club
+||video.ibm.com/socialstream/24037430?videos=0$subdocument
+
+! 2021-01-02 http://onhockey.tv
+||onhockey.tv/pic/Btt_onhockeytv.gif$image
+||onhockey.tv/pic/Btt_onhockeytv.gif$image
+
+! 2021-01-09 https://myoplay.club
+||video.ibm.com/socialstream/24042268?videos=0$subdocument
+
+! 2021-01-10 https://www.warcraftlogs.com
+www.warcraftlogs.com###patron-box
+
+! 2021-01-10 https://www.leeds-live.co.uk
+www.leeds-live.co.uk##.top-slot.gpt
+
+! 2021-01-11 https://walkingdead.fandom.com
+walkingdead.fandom.com##.jw-reset.jw-video
+walkingdead.fandom.com##.featured-video__player-container
+walkingdead.fandom.com##.featured-video
+
+! 2021-01-14 https://walkingdead.fandom.com
+||static.wikia.nocookie.net/df3afc30-0f94-470d-85ce-e1319062c993$image
+walkingdead.fandom.com##.aff-unit__info
+walkingdead.fandom.com##.aff-unit__disclaimer-message
+
+! 2021-01-17 http://liveonscore.tv
+||www.youtube.com/live_chat?v=_ZbPh4L2CAw&embed_domain=liveonscore.tv$subdocument
+
+! 2021-01-20 https://myoplay.club
+||ustream.tv/socialstream/24048411?videos=0$subdocument
+
+! 2021-01-23 https://liiga.fi
+||liiga.fi/static/liiga/site/img/scandic/scandic_2_mobile.jpg$image
+liiga.fi##[src="/static/liiga/site/img/scandic/scandic_2_mobile.jpg"]
+
+! 2021-01-24 https://myoplay.club
+||video.ibm.com/socialstream/24049820?videos=0$subdocument
+
+! 2021-01-30 https://myoplay.club
+||video.ibm.com/socialstream/24054431?videos=0$subdocument
+
+! 2021-02-06 http://liveonscore.tv
+||st.chatango.com/h5/gz/r0205211511/id.html$subdocument
+
+! 2021-02-08 https://www.wowhead.com
+www.wowhead.com###video-pos-page
+
+! 2021-02-13 http://fightpass.site
+||st.chatango.com/h5/gz/r0212210124/id.html$subdocument
+
+! 2021-02-14 https://teknavi.fi
+teknavi.fi##.hideonmobile.teknavi-header-ad--desktop.teknavi-header-ad.ad
+
+! 2021-02-15 https://www.aftonbladet.se
+www.aftonbladet.se###abAdArea-947bc17e-f496-43b1-af7d-4437567d4f27 > ._34Z37
+www.aftonbladet.se###abAdArea-9853363b-d55c-4de3-a377-27a070a54176 > ._34Z37
+www.aftonbladet.se###abAdArea-00fc08c1-a9ae-4132-8ce7-c8c01c6fe170 > ._34Z37
+www.aftonbladet.se###abAdArea-b69feabf-d7b7-4352-9731-5776430931d5 > ._34Z37
+www.aftonbladet.se###abAdArea-bb75521d-9f34-41c3-829b-b5547683a5ce > ._34Z37
+
+! 2021-03-11 http://allsportsmedia.live
+||st.chatango.com/h5/gz/r0307212205/id.html$subdocument
+||discord.com/widget?id=732325739428446259&theme=dark$subdocument
+||st.chatango.com/h5/gz/r0307212205/id.html$subdocument
+
+! 2021-03-14 http://allsportsmedia.live
+||st.chatango.com/h5/gz/r0313211517/id.html$subdocument
+
+! 2021-03-14 http://eddensports.com
+eddensports.com###custom_html-34 > .custom-html-widget.textwidget
+
+! 2021-03-21 http://allsportsmedia.live
+||st.chatango.com/h5/gz/r0318212257/id.html$subdocument
+
+futisforum2.org##+js(no-setTimeout-if, f.parentNode.removeChild(f), 100)
+
+! 2021-04-04 http://allsportsmedia.live
+||st.chatango.com/h5/gz/r0402211818/id.html$subdocument
+
+! 2021-04-15 http://allsportsmedia.live
+||st.chatango.com/h5/gz/r0409211505/id.html$subdocument
+
+! 2021-04-15 http://eddensports.com
+eddensports.com##.jconfirm-type-animated.jconfirm-type-red.jconfirm-hilight-shake.jconfirm-box
+eddensports.com##.jconfirm-cell
+eddensports.com##.jconfirm-scrollpane
+
+! 2021-04-16 http://futisforum2.org
+futisforum2.org###div-ff2-top
+
+! 2021-04-18 http://futisforum2.org
+futisforum2.org###div-ff2-bottom
+
+! 2021-05-01 https://tbc.wowhead.com
+tbc.wowhead.com##.premium-promo-row
+tbc.wowhead.com##.comment-editbox
+
+! 2021-05-18 http://allsportsmedia.live
+||st.chatango.com/h5/gz/r0516211454/id.html$subdocument
+
+! 2021-05-21 https://www.curseforge.com
+||media.forgecdn.net/fallback/1.html?campaignUrl=https://link.overwolf.com/fuze-cf-fallback$subdocument
+
+! 2021-05-22 https://areena.yle.fi
+areena.yle.fi##.yle-livefeed__messages--most-liked.yle-livefeed__messages
+areena.yle.fi##.yle-livefeed
+
+! 2021-05-29 http://allsportsmedia.live
+||st.chatango.com/h5/gz/r0527210747/id.html$subdocument
+
+! 2021-06-01 http://onhockey.tv
+||onhockey.tv/pic/342x60.gif$image
+
+! 2021-06-28 https://www.livetulokset.com
+www.livetulokset.com###mc > .crttextpad > div > .ads__text--h.ads__text
+
+! 2021-07-11 https://www.netpris.net
+www.netpris.net##.aw-box
+www.netpris.net##.adwish-wrapper
+
+! 2021-07-22 https://newworld.fandom.com
+newworld.fandom.com##.is-loading.top-leaderboard.ad-slot-placeholder
+
+! 2021-08-15 https://maxroll.gg
+maxroll.gg###generic-player
+maxroll.gg###generic-player-wrapper
+maxroll.gg##.has-dynamic-ads.main-sidebar
+
+! 2021-09-03 https://www.mirror.co.uk
+www.mirror.co.uk###comments-standalone-mpu
+
+! 2021-09-23 https://wago.io
+||player.twitch.tv/$subdocument
+wago.io##.embed-player-close
+||player.twitch.tv/?channel=Method&height=240&muted=true&parent=wago.io&referrer=https%3A%2F%2Fwago.io%2FHJQ5G0jlQ&width=426$subdocument
+
+! 2021-10-09 https://realsport101.com
+realsport101.com##.connatixVideo-wrapper.connatixVideo
+
+! 2021-10-09 https://www.vipleague.lc
+www.vipleague.lc##.text-center.col-md-4.d-md-block.d-none
+
+! 2021-10-09 https://www.sportingnews.com
+www.sportingnews.com##.pop-out-eplayer-container--preserve-size.pop-out-eplayer-container
+
+! 2021-10-11 https://hfboards.mandatory.com
+hfboards.mandatory.com###forums_extra-0
+
+! 2021-10-11 https://forums.tomshardware.com
+forums.tomshardware.com##.jw-reset.jw-video
+forums.tomshardware.com##.jw-loaded
+forums.tomshardware.com###video_ad > div
+
+! 2021-10-16 https://hsreplay.net
+hsreplay.net##div.center-ad-container:nth-of-type(1)
+hsreplay.net##.mulligan-like-pro-banner
+hsreplay.net##.sticky-native > .premium-fallback--desktop.premium-fallback
+hsreplay.net##.center-ad-container > .premium-fallback--desktop.premium-fallback
+hsreplay.net##.infobox > .premium-fallback--desktop.premium-fallback
+
+! 2021-10-17 https://hsreplay.net
+hsreplay.net##.sticky__element > .premium-fallback--desktop.premium-fallback
+
+! 2021-10-18 https://www.hearthpwn.com
+www.hearthpwn.com##[src="https://i.ibb.co/bQD2CSG/Cu-A1s-M-WAAAdz-Bz-1.jpg"]
+
+! 2021-10-23 https://ptr.wowhead.com
+ptr.wowhead.com##.premium-promo-row
+
+! 2021-10-26 https://www.meillakotona.fi
+www.meillakotona.fi##.ad__stickyWithMinHeight____qGyz.ad__withAdDivider___2c-x-.ad__topAd___1X7NR.ad__component___1l3Ta
+
+! 2021-10-28 https://wago.io
+wago.io##div.wago-ad-container-728x90.wago-in-article-ad-container.wago-ad-container.md-theme-default.md-card:nth-of-type(5)
+
+! 2021-10-30 https://www.vipleague.tv
+www.vipleague.tv##.d-none.d-lg-block.col-lg-3
+
+! 2021-11-04 https://www.wowdb.com
+www.wowdb.com##.atf-ad-leaderboard.xt-leaderboard.xt-placement
+
+! 2021-11-04 https://www.icy-veins.com
+www.icy-veins.com###premium_banners_july_2021_content_gold
+
+! 2021-11-05 https://www.icy-veins.com
+www.icy-veins.com###premium_banners_july_2021_content_blue
+
+! 2021-11-09 https://swtorista.com
+||swtorista.com/armor/sidebar/28.jpg$image
+
+! 2021-11-09 https://www.mmo-champion.com
+www.mmo-champion.com###news_highlight_container
+
+! 2021-11-10 https://swtorista.com
+swtorista.com##.support-panel > .support-panel-inner
+swtorista.com##[src="https://swtorista.com/armor/sidebar/9.jpg"]
+swtorista.com##[src="https://swtorista.com/armor/sidebar2/swtorista4.jpg"]
+swtorista.com###oldReferral > .support-panel-inner
+
+! 2021-11-11 http://metastats.net
+metastats.net##[src="/images/feedback.jpg"]
+
+! 2021-11-11 https://swtorista.com
+swtorista.com##[src="https://swtorista.com/armor/sidebar/9.jpg"]
+swtorista.com##.support-panel
+swtorista.com###oldReferral > [href="https://codexpins.com"]
+swtorista.com###oldReferral
+
+! 2021-11-15 https://www.nhl.com
+www.nhl.com###loading-container
+
+! 2021-11-17 https://www.metabomb.net
+www.metabomb.net##[src="//cdn.gamer-network.net/2021/metabomb/swordofthefallen-header.jpg/EG11/resize/700x-1/quality/70"]
+
+! 2021-11-17 https://www.windowscentral.com
+www.windowscentral.com##.no-amazon.article-body__suppl_content--taboola-mid-article.article-body__suppl_content--inline-once.article-body__suppl_content
+
+! 2021-11-20 https://www.tsn.ca
+www.tsn.ca###vidi_player_instance_1 > .jw-reset.jw-wrapper > .jw-reset.jw-media > .jw-reset.jw-video
+www.tsn.ca###vidi_player_instance_1 > .jw-reset.jw-wrapper > .jw-reset.jw-media
+www.tsn.ca###vidi_player_instance_1 > .jw-reset.jw-wrapper > .jw-reset.jw-aspect
+www.tsn.ca##.video-container_1_1721827_1637110165
+
+! 2021-11-20 https://www.manchestereveningnews.co.uk
+www.manchestereveningnews.co.uk##.skinny-form-content
+www.manchestereveningnews.co.uk##.custom-form-styling.skinny-signup-top.skinny-signup
+
+! 2021-11-22 https://outof.cards
+outof.cards##[src="https://youre.outof.cards/media/uploads/25/28/252853eb-d3d2-4c3b-8f05-eb00cadbf9ff/adblock-sadface-long.jpg"]
+outof.cards##.forum-posts.comments > .sweet-wrapper-remove.sweet-wrapper
+outof.cards##[src="https://youre.outof.cards/media/uploads/b3/53/b353c289-7aaa-4e76-9226-05577b6af47a/adblock-sadface-long.jpg"]
+outof.cards##.header-placement > .sweet-wrap > .sweet-wrapper-full-grid.sweet-wrapper-remove.sweet-wrapper > .sweet-remove
+outof.cards##.vid-placement
+outof.cards###ooc-header
+
+! 2021-11-22 http://dulfy.net
+dulfy.net###dulfy-986771538
+dulfy.net##.dulfy-before-content
+
+! 2021-11-25 https://bbs.io-tech.fi
+bbs.io-tech.fi##[src="https://bbs.io-tech.fi/images/bf2021.png"]
+
+! 2021-11-26 https://www.io-tech.fi
+www.io-tech.fi##[src="https://bbs.io-tech.fi/images/bf2021-350px.png"]
+
+! 2021-11-27 https://www.livetulokset.com
+www.livetulokset.com##.ot-floating-button__open
+www.livetulokset.com##.ot-floating-button__front
+
+! 2021-11-27 https://www.tomshardware.com
+www.tomshardware.com##.jw-reset.jw-video
+www.tomshardware.com##.jw-reset.jw-media
+www.tomshardware.com##.jw-reset.jw-wrapper
+www.tomshardware.com###botr_7AgPc2Q8_ANn1bv7q_div > .jw-reset.jw-aspect
+www.tomshardware.com###futr_botr_7AgPc2Q8_ANn1bv7q_div
+www.tomshardware.com##.jwplayer__wrapper
+www.tomshardware.com###article-body > b
+
+! 2021-11-27 https://www.reddit.com
+www.reddit.com##.EjdBJNEwygtHMKiHd3Bnv.trdUvQxqQHHqQKOUBcgnr
+
+! 2021-11-28 https://spritbox.com
+||spritbox.com/media/catalog/category/Lik_r_iStock-1290495162.jpg$image
+
+! 2021-11-28 https://hearthstone.fandom.com
+hearthstone.fandom.com##.wikia-bar-anon.wikia-bar
+
+! 2021-11-29 https://www.bluetracker.gg
+www.bluetracker.gg##.p-6.container
+
+! 2021-11-30 https://www.hearthpwn.com
+||www.hearthpwn.com/Content/1-7-1083-0/Skins/Hearth/images/hearthpwn-bg.jpg$image
+www.hearthpwn.com##div.t-hot-decks.p-base-a.p-base.page-block:nth-of-type(6)
+
+! 2021-11-30 https://shippii.fi
+shippii.fi##.my_tooltip_calculator > .tip > .text
+shippii.fi##.tip > .fa-times.fas
+shippii.fi##.my_tooltip_calculator > .tip > .tooltip__arrow
+
+! 2021-11-30 https://spritbox.com
+||spritbox.com/media/catalog/category/Wein_iStock-864436424.jpg$image
+||spritbox.com/media/catalog/category/Gin_iStock-928321242.jpg$image
+||spritbox.com/media/catalog/category/Bier_iStock-687652612.jpg$image
+spritbox.com##.category-image
+
+! 2021-12-01 https://www.alko24plus.com
+||www.alko24plus.com/dokument/bibliotek/Image/Liquer-Banner.jpg$image
+www.alko24plus.com##.Egen_Infogad_HTML > div
+||www.alko24plus.com/dokument/bibliotek/Image/Liquer-Banner.jpg$image
+
+! 2021-12-02 https://alkostore24.com
+||alkostore24.com/media/catalog/category/banner_bier.jpg$image
+||alkostore24.com/media/catalog/category/banner_spirituosen.jpg$image
+
+! 2021-12-02 https://hearthstone-decks.net
+hearthstone-decks.net###ss-holder
+hearthstone-decks.net##.code-block-block-4.code-block-4.code-block > div
+hearthstone-decks.net##.code-block-block-4.code-block-4.code-block
+||hearthstone-decks.net/wp-content/uploads/2021/11/Facebook-300-x-250.gif$image
+||hearthstone-decks.net/wp-content/uploads/2021/11/Facebook-300-x-250.gif$image
+hearthstone-decks.net##[src="https://hearthstone-decks.net/wp-content/uploads/2021/11/Facebook-300-x-250.gif"]
+hearthstone-decks.net##.col-md-12 > .row > .col-md-3
+||i2.wp.com/hearthstone-decks.net/wp-content/uploads/2021/11/Twitter-2.gif?w=960&ssl=1$image
+||i2.wp.com/hearthstone-decks.net/wp-content/uploads/2021/11/Twitter-2.gif$image
+hearthstone-decks.net##.ai-viewport-2.ai-viewport-1.code-block-block-8.code-block-8.code-block > div
+
+! 2021-12-03 https://alkostore24.com
+||alkostore24.com/media/catalog/category/banner_bier_2.jpg$image
+||alkostore24.com/media/catalog/category/banner_gin.jpg$image
+
+! 2021-12-09 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/0/457.jpg?1586448537$image
+
+! 2021-12-10 https://www.radiokeskisuomalainen.fi
+www.radiokeskisuomalainen.fi##.efr23pf0.intercom-1c9w56j.intercom-launcher-frame
+
+! 2021-12-13 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/2/2074.jpg?1585575595$image
+||bbs.io-tech.fi/data/avatars/m/38/38316.jpg?1638794620$image
+
+! 2022-01-11 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/54/54397.jpg?1623067060$image
+
+! 2022-01-13 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/52/52370.jpg?1616650570$image
+
+! 2022-01-17 https://alkostore24.com
+||alkostore24.com/media/catalog/category/banner_portwein_1.jpg$image
+||alkostore24.com/media/catalog/category/banner_bier_1.jpg$image
+||alkostore24.com/media/catalog/category/banner_wodka.jpg$image
+||alkostore24.com/media/catalog/category/banner-korn1.jpg$image
+||alkostore24.com/media/catalog/category/banner_flaschenwein_1.jpg$image
+||alkostore24.com/media/catalog/category/banner_wein.jpg$image
+alkostore24.com##.category-description > p
+
+! 2022-01-17 https://keskustelu.alkoholia-netista.info
+keskustelu.alkoholia-netista.info##.p-body-inner > .google-template-top
+
+! 2022-01-18 https://alkostore24.com
+||alkostore24.com/media/catalog/category/banner_flaschenwein_22.jpg$image
+
+! 2022-01-23 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/9/9458.jpg?1486409337$image
+
+! 2022-02-04 http://1stream.top
+1stream.top###live-chat-iframe
+
+! 2022-02-05 https://www.alko24plus.com
+||www.alko24plus.com/dokument/bibliotek/Image/Beer-Banner.jpg$image
+
+! 2022-02-06 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/6/6320.jpg?1628002743$image
+
+! 2022-02-08 https://www.mensjournal.com
+www.mensjournal.com##.jw-reset.jw-media
+www.mensjournal.com##.jw-reset.jw-wrapper
+
+! 2022-02-08 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/0/160.jpg?1578340068$image
+
+! 2022-02-08 https://myoplay.club
+||video.ibm.com/socialstream/24185859$subdocument
+
+! 2022-02-12 http://givemenbastreams.com
+givemenbastreams.com###chat
+
+! 2022-02-16 https://www.hearthpwn.com
+||media.hearthpwn.com/avatars/thumbnails/447/42/100/100/637616261193390849.jpeg$image
+
+! 2022-02-17 https://www.netpris.net
+www.netpris.net###eaetwrp_18227334e4c46e33ee2c12ca311b81fbf53040f71cc4d6332595c176613a1e04
+www.netpris.net##.add-wrapper-d
+
+! 2022-02-20 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/4/4682.jpg$image
+
+! 2022-02-22 https://alks.fi
+||alks.fi/wp-content/uploads/2022/02/14.56*.png$image
+
+! 2022-02-22 https://outof.cards
+||almost.outof.cards/static/b2.259/images/headers/header-alterac-valley.jpg$image
+
+! 2022-03-01 https://www.warcraftlogs.com
+@@||player.twitch.tv/?autoplay=true&muted=true&parent=www.warcraftlogs.com&channel=sloot$subdocument,domain=www.warcraftlogs.com
+
+! 2022-03-04 https://fi.discandooo.com
+fi.discandooo.com##.grid.block-products-list.widget.block
+fi.discandooo.com##.aw-container.adwish-wrapper
+fi.discandooo.com##.adwish-section
+
+! 2022-03-10 https://www.mmo-champion.com
+www.mmo-champion.com##.bar > .border
+www.mmo-champion.com##.bar
+
+! 2022-03-11 https://www.wowprogress.com
+www.wowprogress.com##.post
+
+! 2022-03-11 https://www.darklegacycomics.com
+www.darklegacycomics.com##.logo
+
+! 2022-03-14 https://hsreplay.net
+hsreplay.net##.kajamm.sc-citwmv
+
+! 2022-03-14 https://raider.io
+raider.io##.slds-p-around--x-small.rio-hidden--small.slds-text-align--center
+
+! 2022-03-15 http://weakstreams.com
+weakstreams.com###wp_chat
+
+! 2022-03-16 https://en.drinkology.de
+en.drinkology.de##.emotion--banner
+en.drinkology.de##.jkb-listing-banner.emotion--non-ajax.emotion--fragment.product--box.emotion--wrapper
+
+! 2022-03-17 https://raider.io
+raider.io##.fresnel-greaterThanOrEqual-xl.rio-right-pane.slds-shrink-none.slds-grow-none.slds-col > div > section.slds-text-align--center
+
+! 2022-03-21 http://blabseal.org
+||blabseal.org/coolbeans/chat.php$subdocument
+
+! 2022-03-22 https://nhl66.ir
+nhl66.ir##.chat-wrapper
+
+! 2022-03-24 https://suomimobiili.fi
+suomimobiili.fi###sm-mainos-header
+suomimobiili.fi##.headermainos
+
+! 2022-03-30 http://onhockey.tv
+||onhockey.tv/pic/HOCKEY_320x50.gif$image
+
+! 2022-04-02 https://www.foodie.fi
+www.foodie.fi##.player-styles-1dpip32.needsclick.wp-exclude-emoji
+
+! 2022-04-05 https://www.icy-veins.com
+||static.icy-veins.com/images/common/premium-banner-EUR.png$image
+
+! 2022-04-06 https://classic.wowhead.com
+classic.wowhead.com##.is-btf.block-block-bg > .banner-ad
+
+! 2022-04-06 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/13/13727.jpg?1602346473$image
+||bbs.io-tech.fi/data/avatars/*/61/61035.jpg$image
+
+! 2022-04-08 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/10/10139.jpg$image
+
+! 2022-04-14 http://futisforum2.org
+||pbs.twimg.com/media/FQUYZMKXwAYVGSY$image
+
+! 2022-04-18 https://www.yliopistonapteekki.fi
+||images.ctfassets.net/qzd0lavuat2e/7f5qG4fk1Ddu9JG5odemd9/1133d644c9f33737ce4aeade0f0539f8/Slider_KausiALE.jpg?fm=jpg&q=90$image
+
+! 2022-05-10 https://www.hearthpwn.com
+||media.giphy.com/media/Cldg38cSiRmgg/giphy.gif$image
+||i.imgur.com/OgtKDKU.jpg$image
+
+! 2022-05-13 http://1stream.top
+||1stream.top/images/footy.jpg$image
+
+! 2022-05-17 https://hfboards.mandatory.com
+||cdn1-hfboards.mandatory.com/data/avatars/l/99/99815.jpg$image
+||cdn1-hfboards.mandatory.com/data/avatars/l/336/336691.jpg$image
+
+! 2022-05-17 https://outlook.live.com
+outlook.live.com##.yalIU.g8VmY
+outlook.live.com##.UsCOa.full
+
+! 2022-05-17 https://hfboards.mandatory.com
+||cdn1-hfboards.mandatory.com/data/avatars/l/268/268315.jpg$image
+
+! 2022-05-18 https://hfboards.mandatory.com
+||cdn1-hfboards.mandatory.com/data/avatars/l/107/107998.jpg$image
+||cdn1-hfboards.mandatory.com/data/avatars/l/332/332445.jpg$image
+
+! 2022-05-18 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/22/22374.jpg$image
+
+! 2022-05-20 https://hfboards.mandatory.com
+||cdn1-hfboards.mandatory.com/data/avatars/l/256/256235.jpg$image
+
+! 2022-05-24 https://hfboards.mandatory.com
+||cdn1-hfboards.mandatory.com/data/avatars/l/39/39206.jpg$image
+
+! 2022-05-24 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/2/2977.jpg$image
+
+! 2022-05-24 https://hfboards.mandatory.com
+||cdn1-hfboards.mandatory.com/data/avatars/l/12/12453.jpg$image
+
+! 2022-05-25 https://keskustelu.jatkoaika.com
+keskustelu.jatkoaika.com##.block.querylift
+
+! 2022-05-28 https://www.tokmanni.fi
+www.tokmanni.fi##.placeholder
+
+! 2022-05-28 https://myoplay.club
+||video.ibm.com/socialstream/24620991$subdocument
+
+! 2022-05-29 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/m/1/1022.jpg$image
+
+! 2022-05-30 https://hfboards.mandatory.com
+||cdn1-hfboards.mandatory.com/data/avatars/*/271/271223.jpg$image
+
+! 2022-05-30 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/1/1941.jpg$image
+
+! 2022-06-06 https://bbs.io-tech.fi
+||bbs.io-tech.fi/data/avatars/*/40/40309.jpg$image
+
+! 2022-06-06 https://hfboards.mandatory.com
+||cdn1-hfboards.mandatory.com/data/avatars/l/302/302641.jpg$image
+
+! 2022-06-09 https://www.hearthpwn.com
+||i.imgur.com/ATm0FMP.png$image
+
+! 2022-06-11 http://1stream.top
+1stream.top###\31
+1stream.top###\30
+
+! 2022-06-14 https://www.cnet.com
+www.cnet.com###iframe_youtube
+www.cnet.com##.youtubeContainer
+
+! 2022-06-17 https://www.pohjolarakennus.fi
+www.pohjolarakennus.fi##.ld-chat-launcher.ld-chat-bot
+
+! 2022-06-18 https://forum.warmane.com
+forum.warmane.com##.center
+forum.warmane.com###page-frame
